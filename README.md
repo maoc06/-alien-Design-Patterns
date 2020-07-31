@@ -7,5 +7,4 @@ Here are examples of pattern designs implemented in Java. The guide text for the
 ## Motivation
 
 :nerd_face:
-
 I try to learn and reinforce the fundamentals of the most used design patterns in the industry
